@@ -1,0 +1,9 @@
+{
+  "id": "com.winplasma.widgets",
+  "name": "Desktop Widgets",
+  "version": "1.0.0",
+  "author": "WinPlasma",
+  "description": "Draggable desktop widgets: Clock, Weather, System Stats, Calendar, and Sticky Notes.",
+  "minHostVersion": "1.0.0",
+  "dllFileName": "plugin.dll"
+}
